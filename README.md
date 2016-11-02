@@ -64,8 +64,9 @@
 
 ผลการรันจะแสดงคำว่า "Hello" press any key to continue ซึ่ง "Hello" จะอยู่คนละบรรทัดทัดกับ press any key to continue 
 หลังจากนั้นจะให้เรากด key หรือตัวอะไรก็ได้ พอเรากดโปรแกรมจะดำเนินการต่อ (ในที่นี้คือโปรแกรมจะปิด)
-
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P5.png)
+
+
 
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
