@@ -61,18 +61,13 @@
 ## 2. การทดลองเมดธอด Console.WriteLine()
 
 แก้โปรแกรมในเมดธอด Main() ให้เป็นดังรูปต่อไปนี้
-
-ผลการรันจะแสดงคำว่า "Hello" press any key to continue ซึ่ง "Hello" จะอยู่คนละบรรทัดทัดกับ press any key to continue 
-หลังจากนั้นจะให้เรากด key หรือตัวอะไรก็ได้ พอเรากดโปรแกรมจะดำเนินการต่อ (ในที่นี้คือโปรแกรมจะปิด)
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P5.png)
-
-
-
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
 บันทึกผลที่ได้จากการรันโปรแกรม
 
-
+ผลการรันจะแสดงคำว่า "Hello" press any key to continue ซึ่ง "Hello" จะอยู่คนละบรรทัดทัดกับ press any key to continue 
+หลังจากนั้นจะให้เรากด key หรือตัวอะไรก็ได้ พอเรากดโปรแกรมจะดำเนินการต่อ (ในที่นี้คือโปรแกรมจะปิด)
 ![](https://github.com/Jarukan57030147/LAB-04/blob/master/imgs/Capture2.PNG?raw=true)
 
 แก้ไขโปรแกรม ให้เป็นดังรูปด้านล่างนี้
