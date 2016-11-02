@@ -34,7 +34,7 @@
 
 ####บันทึกผลการทดลอง
 
-ผลการรันจะแสดงคำว่า "Hellopress any key to continue" คือจะให้เรากด key หรือตัวอะไรก็ได้ พอเรากดโปรแกรมจะดำเนินการต่อ (ในที่นี้คือโปรแกรมจะปิด)
+ผลการรันจะแสดงคำว่า "Hellopress any key to continue" คือคำว่า "Hello" จะแสดงผลออกมาด้วย
 ![](https://github.com/Jarukan57030147/LAB-04/blob/master/imgs/Capture.PNG?raw=true)
 
 แก้ไขโปรแกรม ให้เป็นดังรูปด้านล่างนี้    
@@ -44,8 +44,7 @@
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
  * การรันแล้วทำให้หน้าจอ console ยังคงแสดงผลค้างอยู่นั้น ให้เลือกเมนู Debug -> Start Without Debugging (Ctrl+F5) มิฉะนั้น หน้าจอ console จะหายไปอย่างรวดเร็ว
 
-ผลการรันจะแสดงคำว่า "Hello Worldpress any key to continue"
-คือจะให้เรากด key หรือตัวอะไรก็ได้ พอเรากดโปรแกรมจะดำเนินการต่อ (ในที่นี้คือโปรแกรมจะปิด)
+ผลการรันจะแสดงคำว่า "Hello Worldpress any key to continue" คืออคำว่า "Hello World" จะแสดงผลออกมาด้วย
 
 ![](https://github.com/Jarukan57030147/LAB-04/blob/master/imgs/Capture1.PNG?raw=true)
 
@@ -68,7 +67,7 @@
 บันทึกผลที่ได้จากการรันโปรแกรม
 
 ผลการรันจะแสดงคำว่า "Hello" press any key to continue ซึ่ง "Hello" จะอยู่คนละบรรทัดทัดกับ press any key to continue 
-หลังจากนั้นจะให้เรากด key หรือตัวอะไรก็ได้ พอเรากดโปรแกรมจะดำเนินการต่อ (ในที่นี้คือโปรแกรมจะปิด)
+
 ![](https://github.com/Jarukan57030147/LAB-04/blob/master/imgs/Capture2.PNG?raw=true)
 
 แก้ไขโปรแกรม ให้เป็นดังรูปด้านล่างนี้
@@ -77,7 +76,9 @@
 
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
 
-ผลการรันจะแสดงคำว่า "Hello World  press any key to continue" ซึ่ง "Hello" จะอยู่คนละบรรทัดทัดกับ "World" และคนละบรรทัดทัดกับ press any key to continue ออกมาทั้งหมด 3 บรรทัด หลังจากนั้นจะให้เรากด key หรือตัวอะไรก็ได้ พอเรากดโปรแกรมจะดำเนินการต่อ (ในที่นี้คือโปรแกรมจะปิด)
+ผลการรันจะแสดงคำว่า "Hello World  press any key to continue" ซึ่ง "Hello" จะอยู่คนละบรรทัดทัดกับ "World" 
+และคนละบรรทัดทัดกับ press any key to continue ออกมาทั้งหมด 3 บรรทัด 
+
 ![](https://github.com/Jarukan57030147/LAB-04/blob/master/imgs/Capture3.PNG?raw=true)
 
 
@@ -90,17 +91,9 @@
 ### คำถาม 4.3 
 
 จงอธิบายความแตกต่างระหว่างคำสั่ง Console.Write() และ Console.WriteLine()
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+    Console.Write ใช้สำหรับการแสดงผลข้อมูลออกสู่หน้าจอ
+    Console.WriteLine ใช้สำหรับการแสดงผลข้อมูลออกสู่หน้าจอแบบขึ้นบรรทัดใหม่
 
 ##สรุปผลการทดลอง
 
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-
+ถ้าเราต้องการให้แสดงผลข้อมูลออกสู่หน้าจอจะใช้คำสั่ง Console.Write แต่ถ้า อยากให้ขึ้นบรรทัดใหม่ ให้เพิ่มคำสั่ง Console.WriteLine ลงไป
