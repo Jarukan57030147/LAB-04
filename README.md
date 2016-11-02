@@ -44,7 +44,8 @@
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
  * การรันแล้วทำให้หน้าจอ console ยังคงแสดงผลค้างอยู่นั้น ให้เลือกเมนู Debug -> Start Without Debugging (Ctrl+F5) มิฉะนั้น หน้าจอ console จะหายไปอย่างรวดเร็ว
 
-ผลการรันจะแสดงคำว่า "Hello World" press any key to continue คือจะให้เรากด key หรือตัวอะไรก็ได้ พอเรากดโปรแกรมจะดำเนินการต่อ (ในที่นี้คือโปรแกรมจะปิด)
+ผลการรันจะแสดงคำว่า "Hello World" press any key to continue 
+คือจะให้เรากด key หรือตัวอะไรก็ได้ พอเรากดโปรแกรมจะดำเนินการต่อ (ในที่นี้คือโปรแกรมจะปิด)
 
 ![](https://github.com/Jarukan57030147/LAB-04/blob/master/imgs/Capture1.PNG?raw=true)
 
